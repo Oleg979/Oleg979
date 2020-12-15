@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Oleg, full-stack web developer. My major skills:
+### I'm Oleg, full-stack web developer. My major skills:
 
 
 ⚡ Angular
