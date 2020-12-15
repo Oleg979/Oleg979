@@ -14,6 +14,10 @@
 
 ⚡ HTML5, CSS3, ES6+
 
+⚡ TypeScript
+
+⚡ GraphQL
+
 ⚡ Java 8+
 
 ⚡ Spring framework
