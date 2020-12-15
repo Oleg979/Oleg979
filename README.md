@@ -18,6 +18,8 @@
 
 ⚡ GraphQL
 
+⚡ PHP
+
 ⚡ Java 8+
 
 ⚡ Spring framework
@@ -26,7 +28,7 @@
 
 ⚡ MongoDB
 
-⚡ SQL
+⚡ SQL - Postgres, Oracle, etc
 
 
 ### 📫 Feel free to message me: olegsolovev506@gmail.com
