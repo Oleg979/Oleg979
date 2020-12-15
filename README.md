@@ -29,4 +29,4 @@
 ⚡ SQL
 
 
-### 📫 Fell free to message me: olegsolovev506@gmail.com
+### 📫 Feel free to message me: olegsolovev506@gmail.com
