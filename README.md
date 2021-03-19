@@ -26,7 +26,7 @@
 
 ⚡ Node.js, Express.js, Nest.js, Socket.io
 
-⚡ MongoDB
+⚡ MongoDB, RethinkDB
 
 ⚡ SQL - Postgres, Oracle, MySQL etc
 
