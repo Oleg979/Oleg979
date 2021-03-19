@@ -22,13 +22,15 @@
 
 ⚡ Java 8+
 
-⚡ Spring framework
+⚡ Spring framework: Boot, Data, Securiy, Cloud
 
-⚡ Node.js, Express, Nest.js, Socket.io
+⚡ Node.js, Express.js, Nest.js, Socket.io
 
 ⚡ MongoDB
 
-⚡ SQL - Postgres, Oracle, etc
+⚡ SQL - Postgres, Oracle, MySQL etc
+
+⚡ Docker, Kubernetes, Jenkins, GitLab CI, Openshift
 
 
 ### 📫 Feel free to message me: olegsolovev506@gmail.com
