@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">A full stack web developer from Saratov, Russia</h3>
 
-- 🔭 I’m currently working in **Netcracker**
+- 🔭 I’m currently working in **Tinkoff**
 
 - 📫 How to reach me **olegsolovev506@gmail.com**
 
